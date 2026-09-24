@@ -1,5 +1,5 @@
 ## Olá, sou Gustavo Nunes
-Olá! Eu sou [SEU NOME] 👋
+
 
 🎓 Tenho 19 anos e sou estudante de Ciência da Computação na Cruzeiro do Sul, atualmente no 2º semestre.
 
